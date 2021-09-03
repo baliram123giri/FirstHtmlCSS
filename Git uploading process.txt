@@ -1,0 +1,4 @@
+1. Staging
+  1.1 git add 
+2. Commiting
+3. Push
